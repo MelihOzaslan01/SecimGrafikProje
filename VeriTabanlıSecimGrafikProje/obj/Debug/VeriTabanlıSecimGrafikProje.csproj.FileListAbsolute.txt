@@ -1,0 +1,12 @@
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\bin\Debug\VeriTabanlıSecimGrafikProje.exe.config
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\bin\Debug\VeriTabanlıSecimGrafikProje.exe
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\bin\Debug\VeriTabanlıSecimGrafikProje.pdb
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.FrmOyGiris.resources
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.FrmGrafikler.resources
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.Properties.Resources.resources
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.csproj.GenerateResource.cache
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.csproj.CoreCompileInputs.cache
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.exe
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.pdb
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.csproj.AssemblyReference.cache
+C:\Users\Melih\source\repos\VeriTabanlıSecimGrafikProje\VeriTabanlıSecimGrafikProje\obj\Debug\VeriTabanlıSecimGrafikProje.csproj.SuggestedBindingRedirects.cache
